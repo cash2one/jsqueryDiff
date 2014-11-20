@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "./classic_server.py", line 17, in <module>
+    from rpyc.utils.authenticators import VdbAuthenticator
+ImportError: cannot import name VdbAuthenticator
+Traceback (most recent call last):
+  File "./classic_server.py", line 17, in <module>
+    from rpyc.utils.authenticators import VdbAuthenticator
+ImportError: cannot import name VdbAuthenticator
+Traceback (most recent call last):
+  File "./classic_server.py", line 17, in <module>
+    from rpyc.utils.authenticators import VdbAuthenticator
+ImportError: cannot import name VdbAuthenticator

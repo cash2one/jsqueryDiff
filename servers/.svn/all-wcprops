@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/app/ecom/nova/!svn/ver/15003/trunk/tools/npat/npat-framework/npat/tools/rpyc-3.0.6/rpyc/servers
+END
+registry_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/app/ecom/nova/!svn/ver/15003/trunk/tools/npat/npat-framework/npat/tools/rpyc-3.0.6/rpyc/servers/registry_server.py
+END
+vdbconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/app/ecom/nova/!svn/ver/15003/trunk/tools/npat/npat-framework/npat/tools/rpyc-3.0.6/rpyc/servers/vdbconf.py
+END
+classic_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/app/ecom/nova/!svn/ver/15003/trunk/tools/npat/npat-framework/npat/tools/rpyc-3.0.6/rpyc/servers/classic_server.py
+END
